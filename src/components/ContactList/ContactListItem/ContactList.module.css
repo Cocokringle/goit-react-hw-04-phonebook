@@ -1,0 +1,17 @@
+.contact{
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.contact_name{
+    margin-right: 10px;
+}
+
+.contact_number{
+    display: flex;
+    align-items: center;
+    margin-right: 10px;
+}
+.contact_button{
+    border-radius: 50%;
+}
